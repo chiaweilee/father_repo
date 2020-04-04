@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "father doc dev"
+  },
+  "devDependencies": {
+    "father": "^2.29.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
